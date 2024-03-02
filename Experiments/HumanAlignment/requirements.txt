@@ -115,7 +115,7 @@ torchdata==0.6.1
 torchtext==0.15.2
 torchvision==0.14.1
 tqdm @ file:///croot/tqdm_1679561862951/work
-transformers==4.29.2
+transformers==4.36.0
 triton==2.0.0
 typing_extensions @ file:///croot/typing_extensions_1681939499988/work
 uritemplate==4.1.1
