@@ -73,7 +73,7 @@ packaging @ file:///croot/packaging_1678965309396/work
 pandas==1.5.3
 pathtools==0.1.2
 perspective==1.0.3
-Pillow==9.4.0
+Pillow==10.2.0
 pooch @ file:///tmp/build/80754af9/pooch_1623324770023/work
 protobuf==3.20.1
 psutil @ file:///opt/conda/conda-bld/psutil_1656431268089/work
